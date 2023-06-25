@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1687443633 source:c:\users\user\desktop\c programs\hjdbcjksd\main.c
+	<stdio.h>
+
+1687444033 source:c:\users\user\desktop\c programs\hjdbcjksd\ticktack.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1687499448 source:c:\users\user\desktop\c programs\hjdbcjksd\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
+1687672016 source:c:\users\user\desktop\c programs\arcade\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
+1687639286 source:c:\users\user\desktop\c programs\arcade\ticktack.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1687640493 source:c:\users\user\desktop\c programs\arcade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687672553 source:c:\users\user\desktop\c programs\arcade\log in.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
